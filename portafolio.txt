@@ -3,3 +3,6 @@ bienvenido a mi portafolio. la tecnologias que manejo son:
 html
 css
 bootstrap
+
+react
+python
