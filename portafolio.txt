@@ -12,3 +12,5 @@ header
 link
 boton
 ai
+------------
+footer
